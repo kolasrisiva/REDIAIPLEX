@@ -1,0 +1,54 @@
+REDIAIPLEX SOFTWARE LICENSE AGREEMENT
+
+Copyright © 2026 REDIAIPLEX.
+
+All Rights Reserved.
+
+This software, website, and all associated files, including but not limited to
+source code, images, graphics, logos, documents, designs, and other materials,
+are the exclusive property of REDIAIPLEX.
+
+1. OWNERSHIP
+The Software and all intellectual property rights related to it are owned by
+REDIAIPLEX.
+
+2. PERMITTED USE
+You may:
+- View and use this website for personal or business purposes.
+- Access the services provided by REDIAIPLEX according to the applicable terms.
+
+3. RESTRICTIONS
+You may NOT:
+- Copy, modify, or redistribute any part of this project without written permission.
+- Reverse engineer or attempt to extract source code.
+- Use REDIAIPLEX trademarks, logos, or branding without authorization.
+- Sell or sublicense any part of this project.
+
+4. INTELLECTUAL PROPERTY
+All trademarks, logos, service marks, and content displayed on this website are
+the property of REDIAIPLEX unless otherwise stated.
+
+5. DISCLAIMER
+This software is provided "AS IS" without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, and non-infringement.
+
+6. LIMITATION OF LIABILITY
+REDIAIPLEX shall not be liable for any direct, indirect, incidental, special,
+or consequential damages arising from the use or inability to use this software
+or website.
+
+7. TERMINATION
+REDIAIPLEX reserves the right to terminate access to this software or website
+at any time for violations of this agreement.
+
+8. CHANGES TO THIS LICENSE
+REDIAIPLEX reserves the right to modify this license at any time. Updated
+versions will be posted with the project.
+
+Contact:
+REDIAIPLEX
+Email: your-email@example.com
+Website: https://REDIAIPLEX.com
+
+© 2026 REDIAIPLEX. All Rights Reserved.
